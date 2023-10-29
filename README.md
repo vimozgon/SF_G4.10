@@ -8,7 +8,7 @@
 ## Установка docker
 Для lunix систем:   
 ```curl -fsSL https://get.docker.com/ | sh``` //Установка Docker  
-Для Windows или Macos:  
+Для Windows:  
 ```https://www.docker.com/``` //Установка Docker Desktop  
 
 ## Запуск приложения:  
